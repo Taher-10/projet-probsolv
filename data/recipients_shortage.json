@@ -1,0 +1,152 @@
+[
+  {
+    "recipient_id": "R000",
+    "recipient_type": "Community Center",
+    "location_x": 40.45465658763988,
+    "location_y": 21.37705091792748,
+    "demand_level_kg": 10.508382534881903,
+    "food_type_preference": "Vegetables",
+    "priority": "High",
+    "demand_timestamp": "2025-04-30 06:00:00"
+  },
+  {
+    "recipient_id": "R001",
+    "recipient_type": "Food Bank",
+    "location_x": 36.287119621526536,
+    "location_y": 25.42853455823514,
+    "demand_level_kg": 28.15132947852186,
+    "food_type_preference": "Canned",
+    "priority": "Medium",
+    "demand_timestamp": "2025-04-30 14:00:00"
+  },
+  {
+    "recipient_id": "R002",
+    "recipient_type": "Community Center",
+    "location_x": 34.06122449469539,
+    "location_y": 47.14267852789905,
+    "demand_level_kg": 21.97730932977072,
+    "food_type_preference": "Canned",
+    "priority": "High",
+    "demand_timestamp": "2025-04-30 01:00:00"
+  },
+  {
+    "recipient_id": "R003",
+    "recipient_type": "Shelter",
+    "location_x": 46.16240759128834,
+    "location_y": 31.67018782552117,
+    "demand_level_kg": 27.429211803754356,
+    "food_type_preference": "Bread",
+    "priority": "High",
+    "demand_timestamp": "2025-04-30 19:00:00"
+  },
+  {
+    "recipient_id": "R004",
+    "recipient_type": "Shelter",
+    "location_x": 47.66560517837736,
+    "location_y": 16.217251050263698,
+    "demand_level_kg": 12.441759094013467,
+    "food_type_preference": "Vegetables",
+    "priority": "High",
+    "demand_timestamp": "2025-04-30 00:00:00"
+  },
+  {
+    "recipient_id": "R005",
+    "recipient_type": "Food Bank",
+    "location_x": 34.55870325083883,
+    "location_y": 21.355389431312815,
+    "demand_level_kg": 26.36029531844986,
+    "food_type_preference": "Vegetables",
+    "priority": "High",
+    "demand_timestamp": "2025-04-30 05:00:00"
+  },
+  {
+    "recipient_id": "R006",
+    "recipient_type": "Community Center",
+    "location_x": 38.34822006297558,
+    "location_y": 11.105390523536512,
+    "demand_level_kg": 12.397307346673657,
+    "food_type_preference": "Bread",
+    "priority": "High",
+    "demand_timestamp": "2025-04-30 21:00:00"
+  },
+  {
+    "recipient_id": "R007",
+    "recipient_type": "Food Bank",
+    "location_x": 38.076723421160814,
+    "location_y": 3.2446123554490782,
+    "demand_level_kg": 15.078308278686894,
+    "food_type_preference": "Bread",
+    "priority": "High",
+    "demand_timestamp": "2025-04-30 01:00:00"
+  },
+  {
+    "recipient_id": "R008",
+    "recipient_type": "Community Center",
+    "location_x": 36.017566196335395,
+    "location_y": 14.242024718873381,
+    "demand_level_kg": 10.737738947090655,
+    "food_type_preference": "Vegetables",
+    "priority": "Low",
+    "demand_timestamp": "2025-04-30 21:00:00"
+  },
+  {
+    "recipient_id": "R009",
+    "recipient_type": "Community Center",
+    "location_x": 35.572929284732226,
+    "location_y": 45.41329429833269,
+    "demand_level_kg": 14.791237813339448,
+    "food_type_preference": "Dairy",
+    "priority": "Medium",
+    "demand_timestamp": "2025-04-30 05:00:00"
+  },
+  {
+    "recipient_id": "R010",
+    "recipient_type": "Community Center",
+    "location_x": 43.44271094811757,
+    "location_y": 38.08098076643588,
+    "demand_level_kg": 14.752750879847994,
+    "food_type_preference": "Canned",
+    "priority": "Low",
+    "demand_timestamp": "2025-04-30 04:00:00"
+  },
+  {
+    "recipient_id": "R011",
+    "recipient_type": "Shelter",
+    "location_x": 42.670594215217896,
+    "location_y": 26.788734203737924,
+    "demand_level_kg": 11.805795401088165,
+    "food_type_preference": "Vegetables",
+    "priority": "High",
+    "demand_timestamp": "2025-04-30 05:00:00"
+  },
+  {
+    "recipient_id": "R012",
+    "recipient_type": "Food Bank",
+    "location_x": 47.167176096274396,
+    "location_y": 16.297945260094238,
+    "demand_level_kg": 14.404820951310967,
+    "food_type_preference": "Dairy",
+    "priority": "Medium",
+    "demand_timestamp": "2025-04-30 18:00:00"
+  },
+  {
+    "recipient_id": "R013",
+    "recipient_type": "Community Center",
+    "location_x": 33.48732858009983,
+    "location_y": 34.546886905123294,
+    "demand_level_kg": 17.734706926010748,
+    "food_type_preference": "Dairy",
+    "priority": "Low",
+    "demand_timestamp": "2025-04-30 10:00:00"
+  },
+  {
+    "recipient_id": "R014",
+    "recipient_type": "Food Bank",
+    "location_x": 32.26947042481178,
+    "location_y": 46.23468091392814,
+    "demand_level_kg": 27.54678706761962,
+    "food_type_preference": "Canned",
+    "priority": "High",
+    "demand_timestamp": "2025-04-30 15:00:00"
+  }
+]

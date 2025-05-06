@@ -1,0 +1,32 @@
+[
+  {
+    "transport_id": "T000",
+    "vehicle_type": "Truck",
+    "capacity_kg": 100,
+    "location_x": 49.10841716647178,
+    "location_y": 25.831794563550716,
+    "fuel_efficiency_km_per_l": 9.043316699321636,
+    "speed_km_per_h": 59.925073995158485,
+    "availability_timestamp": "2025-04-30 11:00:00"
+  },
+  {
+    "transport_id": "T001",
+    "vehicle_type": "Van",
+    "capacity_kg": 50,
+    "location_x": 45.02090285816652,
+    "location_y": 31.655072863663396,
+    "fuel_efficiency_km_per_l": 9.356119164194803,
+    "speed_km_per_h": 46.98419149225322,
+    "availability_timestamp": "2025-04-30 02:00:00"
+  },
+  {
+    "transport_id": "T002",
+    "vehicle_type": "Truck",
+    "capacity_kg": 100,
+    "location_x": 44.354321213255865,
+    "location_y": 38.99377729288119,
+    "fuel_efficiency_km_per_l": 10.56812658461715,
+    "speed_km_per_h": 41.68279929990098,
+    "availability_timestamp": "2025-04-30 07:00:00"
+  }
+]
